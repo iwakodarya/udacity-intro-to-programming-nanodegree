@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+h3 {
+    margin-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.main_box {
+    border: 1px solid rgb(219, 219, 219);
+    width: 300px;
+    padding: 10px;
+    box-shadow: 7px 6px 5px 0px rgba(224,224,224,1);
+    border-radius: 5px;
+}
+
+.info_box {
+    width: 280px;
+    font-size: 10pt;
+    border: 1px solid rgb(219, 219, 219);
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: rgb(238, 239, 240);
+}
+
+.label {
+    font-weight: bold;
+}
+
+#fun_fact {
+    font-style: italic;
+    margin-top: 0px;
+}
+
